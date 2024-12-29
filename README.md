@@ -1,0 +1,6 @@
+# 【精品尤泰链】/链上钱包/区块链算力/对接交易所/点对点交易/达人制度
+
+实力大盘 精品源码<br>无漏洞 搭建即运营 example.com.14<br>example.com：<br>Kol 0:无要求注册就是。<br>Kol 1:有效直推20人，直推矿力10，团队总矿力值50，（交易手续费分红10%）<br>Kol2:有效直推100人，直推矿力100，团队总矿力值500，（交易手续费分红15% ）<br>Kol3:有效直推1000人，直推矿力1000，团队总矿力值5000，（交易 手续费分红20% ）<br>Kol 4:有效直推10000人，直推矿力10000，团队总矿力值50000，（交易手续费分红15%）<br>example.com:<br>享受直推会员拥有小产量的5%中以上10%的返佣，返佣随着持有每天释放。<br>example.com：<br>1级会员：需实名注册，手续费50%。<br>2级会员:需经验值100，手续费40%。<br>3级会员:需经验值300，手续费35%。<br>4级会员:需经验值3000，手续费30%。<br>5级会员:需经验值6000，手续费25%。<br>注: 1级会员终身只可出售一次，2个币。<br>经验值用处及获取方式:<br>1邀请直推会员（需实名认证）奖励50经验值每个。<br>2充值或者购买UTI一个送10经验值。<br>3购买赠送经验值。<br>4出售、提币需扣除相应经验值，1UTI=5经验<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/c5g9G" style="color: red;">https://mega-file.org/c5g9G</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
